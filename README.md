@@ -1,9 +1,14 @@
-# English Language Pack for Flarum
+# Flarum LOLCat Language Pack
 
-## Installation
+A funny language pack meant as an April Fools joke for [Flarum](https://flarum.org)
 
-This language pack is bundled with [Flarum](http://flarum.org/).
+### Installation:
+```
+composer require cwkevo/flarum-lang-lolcat
+```
 
-## Translating Flarum
-
-Because Flarum is at an early development stage, instructions to translate it are currently unavailable. Please check [our documentation](http://flarum.org/docs/translate/) when it will be written.
+### Updating
+```
+composer update cwkevo/flarum-lang-lolcat
+php flarum cache:clear
+```
