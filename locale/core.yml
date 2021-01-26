@@ -9,61 +9,61 @@ core:
 
     # These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Colored Header
-      colors_heading: Colors
-      colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
-      custom_footer_heading: Custom Footer
+      colored_header_label: Kolrd Heedr
+      colors_heading: Kolorz
+      colors_text: "Plz chooze 2 kolorz to styl ur foram wif. Le forst oen wil be uzed 2 stil forgrund elementé, but teh sekond one wil B uzed 2 styl baccgrund stuffie."
+      custom_footer_heading: Kustum Footr
       custom_footer_text: => core.ref.custom_footer_text
-      custom_header_heading: Custom Header
+      custom_header_heading: Kustum Heedr
       custom_header_text: => core.ref.custom_header_text
-      custom_styles_heading: Custom Styles
-      custom_styles_text: Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's default styles.
-      dark_mode_label: Dark Mode
-      description: "Customize your forum's colors, logos, and other variables."
-      edit_css_button: Edit Custom CSS
+      custom_styles_heading: Kustum Stylz
+      custom_styles_text: Kustumminy ur fourm'z apparanc by meowing ur own LEzz/Czz kode 2 B applid on toppe of florm'z defoolt meowz.
+      dark_mode_label: Nigght Kitten Mode
+      description: "Kustumize ur forum'z titel, loggo and othr variabelz."
+      edit_css_button: Modifi kustom CZZ
       edit_footer_button: => core.ref.custom_footer_title
       edit_header_button: => core.ref.custom_header_title
-      enter_hex_message: Please enter a hexadecimal color code.
-      favicon_heading: Favicon
-      favicon_text: Upload an image to be displayed as the forum's shortcut icon.
-      logo_heading: Logo
-      logo_text: Upload an image to be displayed in place of the forum title.
+      enter_hex_message: Plz entr hexadeccimal koed
+      favicon_heading: Favikon
+      favicon_text: Uplood imaeg dat wil be uzed 2 displey in bowser navbar
+      logo_heading: Loggo
+      logo_text: Uplood imaeg dat will be meowed in plaec of ur foram titel
       submit_button: => core.ref.save_changes
-      title: Appearance
+      title: Appreance
 
     # These translations are used in the Basics page.
     basics:
       all_discussions_label: => core.ref.all_discussions
-      default_language_heading: Default Language
-      description: "Set your forum title, language, and other basic settings."
-      display_name_heading: User Display Name
-      display_name_text: Select the driver that should be used for users' display names. By default, the username is shown.
-      forum_description_heading: Forum Description
-      forum_description_text: Enter a short sentence or two that describes your community. This will appear in the meta tag and show up in search engines.
-      forum_title_heading: Forum Title
-      home_page_heading: Home Page
-      home_page_text: Choose the page which users will first see when they visit your forum.
-      saved_message: Your changes were saved.
-      show_language_selector_label: Show language selector
-      slug_driver_heading: "Slug Driver: {model}"
-      slug_driver_text: Select a driver to be used for slugging this model.
+      default_language_heading: Le defolt languuge
+      description: "Sett up ur forum titel, langooge and othr basik settingz."
+      display_name_heading: Kitten Displey naem
+      display_name_text: Selekt de vroom vroom drivver dat wil be uzed to displey namez. By defoolt, uzrnam iz shuwn.
+      forum_description_heading: Foram Deskripshun
+      forum_description_text: Entar a short meow or 2 to deskrib ur foram wif. Dis wil appeer in meta taggz & evil seerch enginez
+      forum_title_heading: Foram Titel
+      home_page_heading: Hom Paeg
+      home_page_text: Chooze de paeg dat uzrz will see wehn dey firzt entr ur foram
+      saved_message: Ur changez were meowed
+      show_language_selector_label: Shwow langooge selektror
+      slug_driver_heading: "Slugg Drivor: {model}"
+      slug_driver_text: Selektr a drivr to be uzed fur sluggin diz model, technikali iz juz ID of somsin
       submit_button: => core.ref.save_changes
-      title: Basics
-      welcome_banner_heading: Welcome Banner
-      welcome_banner_text: Configure the text that displays in the banner on the All Discussions page. Use this to welcome guests to your forum.
+      title: le Basikz
+      welcome_banner_heading: Wilkkomen Bannr
+      welcome_banner_text: Konfigur de tekst dat apperz in da bannr on Alle Diskushun paeg. Uz diz 2 wilkkomen kittnz 2 ur forarum
 
     # These translations are used in the Dashboard page.
     dashboard:
-      clear_cache_button: Clear Cache
-      description: Your forum at a glance.
-      title: Dashboard
-      tools_button: Tools
+      clear_cache_button: Kler Kesh
+      description: ur foram at ur hand
+      title: Deshboord
+      tools_button: tulz
 
     # These translations are used in the Edit Custom CSS modal dialog.
     edit_css:
-      customize_text: "Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's <a>default styles</a>."
+      customize_text: "Kustumzize ur foramsz'zs apprnce by addin kustum lezz/czz koed 2 be appleed on topp of florm'z <a>defoolt stylze</a>."
       submit_button: => core.ref.save_changes
-      title: Edit Custom CSS
+      title: Edit Kustom CZZ
 
     # These translations are used in the Edit Custom Footer modal dialog.
     edit_footer:
@@ -74,16 +74,16 @@ core:
     # These translations are used in the Edit Group modal dialog.
     edit_group:
       color_label: => core.ref.color
-      delete_button: Delete Group
-      delete_confirmation: "Are you sure you want to delete this group? The group members will NOT be deleted."
-      hide_label: Hide on forum
+      delete_button: scronch dis gruup
+      delete_confirmation: "Ar u sur dat u wan 2 delet dis? De kittens in dat grup won be scronched."
+      hide_label: Hid an seek on foram
       icon_label: => core.ref.icon
       icon_text: => core.ref.icon_text
-      name_label: Name
-      plural_placeholder: Plural (e.g. Mods)
-      singular_placeholder: Singular (e.g. Mod)
+      name_label: naem
+      plural_placeholder: plrulalruar (eg. patrol kittnz)
+      singular_placeholder: singlular (eg. loneli patrol kittun)
       submit_button: => core.ref.save_changes
-      title: Create Group
+      title: kreate gruup
 
     # These translations are used in the Edit Custom Header modal dialog.
     edit_header:
@@ -93,57 +93,57 @@ core:
 
     # These translations are used in the email page of the admin interface.
     email:
-      addresses_heading: Addresses
-      description: "Configure the driver, settings and addresses your forum will use to send email."
-      driver_heading: Choose a Driver
-      driver_label: Driver
-      from_label: Sender
-      mail_encryption_label: Encryption
-      mail_host_label: Host
-      mail_mailgun_domain_label: Domain
-      mail_mailgun_region_label: Region
-      mail_mailgun_secret_label: Secret key
+      addresses_heading: adrezez
+      description: "konfigur de drivrz, settins an addrezez ur foram wil uze 2 meow meilz."
+      driver_heading: chose a drivr
+      driver_label: drivr
+      from_label: sendr
+      mail_encryption_label: encihper
+      mail_host_label: hozt
+      mail_mailgun_domain_label: domein
+      mail_mailgun_region_label: reggion
+      mail_mailgun_secret_label: le top sekeret key
       mail_password_label: => core.ref.password
-      mail_port_label: Port
+      mail_port_label: prot
       mail_username_label: => core.ref.username
-      mailgun_heading: Mailgun Settings
-      not_sending_message: Flarum currently does not send emails. This can be due to the selected driver, or errors in its configuration.
-      send_test_mail_button: Send
-      send_test_mail_heading: Send Test Mail
-      send_test_mail_success: "Test mail sent successfully!"
-      send_test_mail_text: "This will send an email using the above configuration to your email, {email}."
-      smtp_heading: SMTP Settings
+      mailgun_heading: meilgun pew pew settinz
+      not_sending_message: ono flarm kurrentli doez not meow meilz. diz kan be du 2 wrongli selekted drivr or errarz in itz konfiguration.
+      send_test_mail_button: meow awai
+      send_test_mail_heading: meow test meil
+      send_test_mail_success: "test meil meowed succ ez fulli!"
+      send_test_mail_text: "diz wil sendd a meil uzin abov konfiguration 2 ur adrez, {email}."
+      smtp_heading: simpel meil transfr protokl settinz
       submit_button: => core.ref.save_changes
       title: => core.ref.email
 
     # These translations are used on default extension pages.
     extension:
-      confirm_uninstall: Uninstalling will remove all database entries and assets related to the extension. Are you sure you want to continue?
-      disabled: Disabled
-      enabled: Enabled
+      confirm_uninstall: scronching wil remeow al databaz entriz and assezts reltalated 2 diz extenshun. Ar u shur u wan 2 kontinue?
+      disabled: sleepy
+      enabled: awoken
       enable_to_see: Enable the extension to view and change settings.
       info_links:
-        discuss: Discuss
-        documentation: Documentation
-        donate: Donate
-        source: Source
-        support: Support
-        website: Website
-      no_permissions: This extension has no permissions.
-      no_settings: This extension has no settings.
-      open_modal: Open Settings
-      permissions_title: Permissions
-      saved_message: Your changes were saved.
-      uninstall_button: Uninstall
+        discuss: diskuz
+        documentation: dokumentetion
+        donate: giv monnies
+        source: sauce code
+        support: suppARt HalP
+        website: websote
+      no_permissions: dis extenshun haz nu permishun.
+      no_settings: dis extenshun haz nu setinz.
+      open_modal: opn setinz
+      permissions_title: permishunz
+      saved_message: ur changz wer meowed.
+      uninstall_button: Scronch
 
     # These translations are used in the secondary header.
     header:
-      get_help: Get Help
+      get_help: get halp
       log_out_button: => core.ref.log_out
 
     # These translations are used in the modal dialog displayed when loading extensions.
     loading:
-      title: Please Wait...
+      title: plz B patieent...
 
     # These translations are used in the navigation bar.
     nav:
@@ -152,62 +152,62 @@ core:
       basics_button: => core.admin.basics.title
       basics_title: => core.admin.basics.description
       categories:
-        authentication: Authentication
-        core: Core Configuration
-        discussion: Discussion
-        feature: Features
-        formatting: Formatting
-        language: Languages
-        moderation: Moderation
-        other: Other Extensions
-        theme: Themes
+        authentication: autentikation
+        core: kore settinz
+        discussion: diskuzion
+        feature: feeturez
+        formatting: formatin
+        language: wat u speek
+        moderation: moderashun
+        other: othr extenshunz
+        theme: themez (diz kategory exizt?)
       dashboard_button: => core.admin.dashboard.title
       dashboard_title: => core.admin.dashboard.description
       email_button: => core.ref.email
       email_title: => core.admin.email.description
       permissions_button: => core.admin.permissions.title
       permissions_title: => core.admin.permissions.description
-      search_placeholder: Search Extensions
+      search_placeholder: seerch extenshunz
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      allow_post_editing_label: Allow post editing
-      allow_renaming_label: Allow renaming
-      create_heading: Create
-      delete_discussions_forever_label: Delete discussions forever
-      delete_discussions_label: Delete discussions
-      delete_posts_forever_label: Delete posts forever
-      delete_posts_label: Delete posts
-      description: Configure who can see and do what.
-      edit_posts_label: Edit posts
-      edit_users_label: Edit users
-      global_heading: Global
-      moderate_heading: Moderate
-      new_group_button: New Group
-      participate_heading: Participate
-      post_without_throttle_label: Reply multiple times without waiting
-      read_heading: Read
-      rename_discussions_label: Rename discussions
-      reply_to_discussions_label: Reply to discussions
-      sign_up_label: Sign up
-      start_discussions_label: Start discussions
-      title: Permissions
-      view_discussions_label: View discussions
-      view_hidden_groups_label: View hidden group badges
-      view_last_seen_at_label: Always view user last seen time
-      view_post_ips_label: View post IP addresses
-      view_user_list_label: View user list
+      allow_post_editing_label: alow pozt renamin
+      allow_renaming_label: alow renamin
+      create_heading: kreate
+      delete_discussions_forever_label: scronch discuzzionz furevar!
+      delete_discussions_label: delet diskuzioonz
+      delete_posts_forever_label: scronch poztz forevr
+      delete_posts_label: delet pozts
+      description: konfigur whihc kitten kan scronch wat
+      edit_posts_label: editt pozts
+      edit_users_label: eddit kittenz
+      global_heading: globl
+      moderate_heading: moderaet
+      new_group_button: new gruup
+      participate_heading: participete
+      post_without_throttle_label: replie multiepl timz witout weitin
+      read_heading: reed
+      rename_discussions_label: renaem diskushun
+      reply_to_discussions_label: replie 2 diskushun
+      sign_up_label: sing up
+      start_discussions_label: startt diskushun
+      title: permishunz
+      view_discussions_label: vieew diskuhsun
+      view_hidden_groups_label: viewe grupz pleyin hid & seek
+      view_last_seen_at_label: alweyz vieww uzr lazt sen taim
+      view_post_ips_label: view pozt ip adrez and bekom haxer
+      view_user_list_label: vieww kitten lizt
 
     # These translations are used in the dropdown menus on the Permissions page.
     permissions_controls:
-      allow_indefinitely_button: Indefinitely
-      allow_some_minutes_button: "For {count} minute|For {count} minutes"
-      allow_ten_minutes_button: For 10 minutes
-      allow_until_reply_button: Until next reply
-      everyone_button: Everyone
+      allow_indefinitely_button: indfelinetily
+      allow_some_minutes_button: "fur {count} minut|fur {count} minitz"
+      allow_ten_minutes_button: 4 ten minitz
+      allow_until_reply_button: untol nekst replie
+      everyone_button: everyoen
       members_button: => core.group.members
-      signup_closed_button: Closed
-      signup_open_button: Open
+      signup_closed_button: klozd
+      signup_open_button: opn
 
     # These translations are used in the Settings modal dialog.
     settings:
@@ -216,7 +216,7 @@ core:
     # These translations are used in image upload buttons.
     upload_image:
       remove_button: => core.ref.remove
-      upload_button: Choose an Image...
+      upload_button: choz an imaeg...
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -226,79 +226,79 @@ core:
       confirm_password_placeholder: => core.ref.confirm_password
       confirmation_message: => core.ref.confirmation_email_sent
       dismiss_button: => core.ref.okay
-      incorrect_password_message: The password you entered is incorrect.
+      incorrect_password_message: de sekret kitten phrase u choze iz inkorekt...
       submit_button: => core.ref.save_changes
       title: => core.ref.change_email
 
     # These translations are used in the Change Password modal dialog.
     change_password:
-      send_button: Send Password Reset Email
-      text: Click the button below and check your email for a link to change your password.
+      send_button: meow passwrd rezet meil
+      text: klikk de buttn bellow and checc ur meilz 4 link 2 rezet ur kittenphraze
       title: => core.ref.change_password
 
     # These translations are used by the composer controls.
     composer:
-      close_tooltip: Close
-      exit_full_screen_tooltip: Exit Full Screen
-      full_screen_tooltip: Full Screen
-      minimize_tooltip: Minimize
-      preview_tooltip: Preview
+      close_tooltip: kloze
+      exit_full_screen_tooltip: eksit thicc scren
+      full_screen_tooltip: thicc scren mode
+      minimize_tooltip: shrinkk
+      preview_tooltip: previewe
 
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
-      body_placeholder: Write a Post...
-      discard_confirmation: "You have not posted your discussion. Do you wish to discard it?"
-      submit_button: Post Discussion
+      body_placeholder: meow a pozt...
+      discard_confirmation: "u no no pozt ur pozt... diskard itt??"
+      submit_button: pozt diskushun
       title: => core.ref.start_a_discussion
-      title_placeholder: Discussion Title
+      title_placeholder: diskushun titel
 
     # These translations are used by the composer when editing a post.
     composer_edit:
-      discard_confirmation: "You have not saved your changes. Do you wish to discard them?"
-      edited_message: Your edit was made.
-      post_link: "Post #{number} in {discussion}"
+      discard_confirmation: "u forgott 2 sav ur changz. u wuld liek 2 diskard dem?"
+      edited_message: ur editt waz maed
+      post_link: "pozt numbr {number} inn {discussion}"
       submit_button: => core.ref.save_changes
       view_button: => core.ref.view
 
     # These translations are used by the composer when replying to a discussion.
     composer_reply:
       body_placeholder: => core.ref.write_a_reply
-      discard_confirmation: "You have not posted your reply. Do you wish to discard it?"
-      posted_message: Your reply was posted.
-      submit_button: Post Reply
+      discard_confirmation: "u no no pozt ur replie. do u wisz 2 diskard itt?"
+      posted_message: ur replie waz pozted
+      submit_button: pozt replie
       view_button: => core.ref.view
 
     # These translations are used by the discussion control buttons.
     discussion_controls:
-      cannot_reply_button: Can't Reply
-      cannot_reply_text: You don't have permission to reply to this discussion.
+      cannot_reply_button: kant replie
+      cannot_reply_text: u don hav permishun 2 replie 2 dis diskushun
       delete_button: => core.ref.delete
-      delete_confirmation: "Are you sure you want to delete this discussion?"
+      delete_confirmation: "ar u shur u wan 2 scronch dis diskushun?"
       delete_forever_button: => core.ref.delete_forever
-      log_in_to_reply_button: Log In to Reply
+      log_in_to_reply_button: logg in 2 replie
       rename_button: => core.ref.rename
       reply_button: => core.ref.reply
       restore_button: => core.ref.restore
 
     # These translations are used in the discussion list.
     discussion_list:
-      empty_text: It looks as though there are no discussions here.
+      empty_text: it luukz liek der ar nu diskushun in der
       load_more_button: => core.ref.load_more
-      mark_as_read_tooltip: Mark as Read
-      replied_text: "{username} replied {ago}"
-      started_text: "{username} started {ago}"
+      mark_as_read_tooltip: mark az reed
+      replied_text: "{username} replid {ago}"
+      started_text: "{username} meowed {ago}"
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
-      activate_button: Activate User
+      activate_button: aktivaet kitten
       email_heading: => core.ref.email
       email_label: => core.ref.email
-      groups_heading: Groups
+      groups_heading: grupz
       password_heading: => core.ref.password
       password_label: => core.ref.password
-      set_password_label: Set new password
+      set_password_label: sett new kittenphrase
       submit_button: => core.ref.save_changes
-      title: Edit User
+      title: editt uzr
       username_heading: => core.ref.username
       username_label: => core.ref.username
 
@@ -306,194 +306,194 @@ core:
     forgot_password:
       dismiss_button: => core.ref.okay
       email_placeholder: => core.ref.email
-      email_sent_message: We've sent you an email containing a link to reset your password. Check your spam folder if you don't receive it within the next minute or two.
-      not_found_message: There is no user registered with that email address.
-      submit_button: Recover Password
-      text: Enter your email address and we will send you a link to reset your password.
-      title: Forgot Password
+      email_sent_message: we sentt u a meil 2 rezet ur kitenphraze. checc ur junk evil mail foldr if it doeznt arriv in 1-80 yearz
+      not_found_message: der iz no kittn regizetred wif dat meil adrz
+      submit_button: rekover kittenphrase
+      text: meow in ur emeil adrez and we send u meil kontainin paswrd rezet Link from zelda
+      title: wupz, forggot pazwrd
 
     # These translations are used in the header and session dropdown menu.
     header:
-      admin_button: Administration
-      back_to_index_tooltip: Back to Discussion List
+      admin_button: administrashun
+      back_to_index_tooltip: bacc 2 diskushun lizt
       log_in_link: => core.ref.log_in
       log_out_button: => core.ref.log_out
-      profile_button: Profile
-      search_placeholder: Search Forum
+      profile_button: profiel
+      search_placeholder: seerch forumize
       settings_button: => core.ref.settings
       sign_up_link: => core.ref.sign_up
 
     # These translations are used on the index page, peripheral to the discussion list.
     index:
       all_discussions_link: => core.ref.all_discussions
-      cannot_start_discussion_button: Can't Start Discussion
-      mark_all_as_read_confirmation: "Are you sure you want to mark all discussions as read?"
+      cannot_start_discussion_button: ono kan't start diskushun
+      mark_all_as_read_confirmation: "ar u shur u wan 2 marcc al diskushun az reed?"
       mark_all_as_read_tooltip: => core.ref.mark_all_as_read
       meta_title_text: => core.ref.all_discussions
-      refresh_tooltip: Refresh
+      refresh_tooltip: refrosh
       start_discussion_button: => core.ref.start_a_discussion
 
     # These translations are used by the sorting control above the discussion list.
     index_sort:
-      latest_button: Latest
-      newest_button: Newest
-      oldest_button: Oldest
-      relevance_button: Relevance
-      top_button: Top
+      latest_button: latzt
+      newest_button: newborn onez
+      oldest_button: anccient onez
+      relevance_button: relelvancc
+      top_button: topp kitten diskushunz
 
     # These translations are used in the Log In modal dialog.
     log_in:
-      forgot_password_link: "Forgot password?"
-      invalid_login_message: Your login details were incorrect.
+      forgot_password_link: "forgott pazzwrd?"
+      invalid_login_message: ur loggin deteilz wer inkorecc.
       password_placeholder: => core.ref.password
-      remember_me_label: Remember Me
-      sign_up_text: "Don't have an account? <a>Sign Up</a>"
+      remember_me_label: rimemboor meself
+      sign_up_text: "don hav an akkount? <a>sing upp firzt</a>"
       submit_button: => core.ref.log_in
       title: => core.ref.log_in
-      username_or_email_placeholder: Username or Email
+      username_or_email_placeholder: kittenname or emeil
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
-      discussion_renamed_text: "{username} changed the title"
-      empty_text: No Notifications
+      discussion_renamed_text: "{username} changd de titel"
+      empty_text: no notifikashun
       mark_all_as_read_tooltip: => core.ref.mark_all_as_read
-      mark_as_read_tooltip: Mark as Read
+      mark_as_read_tooltip: marcc az reed
       title: => core.ref.notifications
       tooltip: => core.ref.notifications
 
     # These translations are used by tooltips displayed for individual posts.
     post:
-      edited_text: Edited
-      edited_tooltip: "{username} edited {ago}"
-      number_tooltip: "Post #{number}"
+      edited_text: editd
+      edited_tooltip: "{username} edittded {ago}"
+      number_tooltip: "pozt numbr {number}"
 
     # These translations are used by the post control buttons.
     post_controls:
       delete_button: => core.ref.delete
-      delete_confirmation: "Are you sure you want to delete this post forever? This action cannot be undone."
+      delete_confirmation: "ar u shur u wan 2 scronch diz pozt furever? diz kant be undun."
       delete_forever_button: => core.ref.delete_forever
       edit_button: => core.ref.edit
-      hide_confirmation: "Are you sure you want to delete this post?"
+      hide_confirmation: "u shur u wan 2 delet dis?"
       restore_button: => core.ref.restore
 
     # These translations are used in the scrubber to the right of the post stream.
     post_scrubber:
-      now_link: Now
-      original_post_link: Original Post
-      unread_text: "{count} unread"
-      viewing_text: "{index} of {count} post|{index} of {count} posts"
+      now_link: rait naw
+      original_post_link: originl pozt
+      unread_text: "{count} unreed"
+      viewing_text: "{index} of {count} pozt|{index} of {count} poztz"
 
     # These translations are displayed between posts in the post stream.
     post_stream:
-      discussion_renamed_old_tooltip: 'The old title was: "{old}"'
-      discussion_renamed_text: "{username} changed the title to {new}."
+      discussion_renamed_old_tooltip: 'de oldd titel waz "{old}"'
+      discussion_renamed_text: "{username} meowed de titel 2 {new}."
       load_more_button: => core.ref.load_more
       reply_placeholder: => core.ref.write_a_reply
-      time_lapsed_text: "{period} later"
+      time_lapsed_text: "{period} latr"
 
     # These translations are used by the rename discussion modal.
     rename_discussion:
       submit_button: => core.ref.rename
-      title: Rename Discussion
+      title: renaem diskushun
 
     # These translations are used by the search results dropdown list.
     search:
-      all_discussions_button: 'Search all discussions for "{query}"'
+      all_discussions_button: 'serch al diskushun fur "{query}"'
       discussions_heading: => core.ref.discussions
       users_heading: => core.ref.users
 
     # These translations are used in the Settings page.
     settings:
-      account_heading: Account
+      account_heading: akkount
       change_email_button: => core.ref.change_email
       change_password_button: => core.ref.change_password
       notifications_heading: => core.ref.notifications
       notify_by_email_heading: => core.ref.email
-      notify_by_web_heading: Web
-      notify_discussion_renamed_label: Someone renames a discussion I started
-      privacy_disclose_online_label: Allow others to see when I am online
-      privacy_heading: Privacy
+      notify_by_web_heading: webb
+      notify_discussion_renamed_label: som1 kittn renamez a diskushun i hab meowed
+      privacy_disclose_online_label: alow othr kittenz 2 spi on my onlien statuz
+      privacy_heading: privoci
       title: => core.ref.settings
 
     # These translations are used in the Sign Up modal dialog.
     sign_up:
       dismiss_button: => core.ref.okay
       email_placeholder: => core.ref.email
-      log_in_text: "Already have an account? <a>Log In</a>"
+      log_in_text: "alredi hab an akkount? <a>logg in</a>"
       password_placeholder: => core.ref.password
       submit_button: => core.ref.sign_up
       title: => core.ref.sign_up
       username_placeholder: => core.ref.username
-      welcome_text: "Welcome, {username}!"
+      welcome_text: "welkom, {username}!"
 
     # These translations are used in the user profile page and profile popup.
     user:
       avatar_remove_button: => core.ref.remove
-      avatar_upload_button: Upload
-      avatar_upload_tooltip: Upload a new avatar
+      avatar_upload_button: uplood
+      avatar_upload_tooltip: uplod a brand neww avatoor
       discussions_link: => core.ref.discussions
-      in_discussion_text: "In {discussion}"
-      joined_date_text: "Joined {ago}"
-      online_text: Online
-      posts_empty_text: It looks like there are no posts here.
+      in_discussion_text: "in {discussion}"
+      joined_date_text: "joind {ago}"
+      online_text: onlien
+      posts_empty_text: it lokz liek der nu poztz dere
       posts_link: => core.ref.posts
       posts_load_more_button: => core.ref.load_more
       settings_link: => core.ref.settings
 
     # These translations are found on the user profile page (admin function).
     user_controls:
-      button: Controls
+      button: kontrolz
       delete_button: => core.ref.delete
-      delete_confirmation: "Are you sure you want to delete this user? The user's posts will NOT be deleted."
-      delete_error_message: "Deletion of user <i>{username} ({email})</i> failed"
-      delete_success_message: "User <i>{username} ({email})</i> was deleted"
+      delete_confirmation: "ar u shur u wan 2 scronch diz kitten? le kitten's poztz won be deletd"
+      delete_error_message: "scronchation off <i>{username} ({email})</i> feiled"
+      delete_success_message: "kitten <i>{username} ({email})</i> waz scronched"
       edit_button: => core.ref.edit
 
     # These translations are used in the alert that is shown when a new user has not confirmed their email address.
     user_email_confirmation:
       alert_message: => core.ref.confirmation_email_sent
-      resend_button: Resend Confirmation Email
-      sent_message: Sent
+      resend_button: resendd konfirmation meil
+      sent_message: sentt
 
   # Translations in this namespace are used by the forum and admin interfaces.
   lib:
 
     # These translations are displayed as tooltips for discussion badges.
     badge:
-      hidden_tooltip: Hidden
+      hidden_tooltip: hiddn
 
     # These translations are displayed as error messages.
     error:
-      dependent_extensions_message: "Cannot disable {extension} until the following dependent extensions are disabled: {extensions}"
-      generic_message: "Oops! Something went wrong. Please reload the page and try again."
-      missing_dependencies_message: "Cannot enable {extension} until the following dependencies are enabled: {extensions}"
-      not_found_message: The requested resource was not found.
-      permission_denied_message: You do not have permission to do that.
-      rate_limit_exceeded_message: You're going a little too quickly. Please try again in a few seconds.
+      dependent_extensions_message: "kannot slep {extension} untill le folowin dpenendencies ar awokened {extensions}"
+      generic_message: "wupz! somsin wen wronge. plz relood de paeg an tri agayn."
+      missing_dependencies_message: "kannot awoke {extension} until folowin extenshun ar awokened 2: {extensions}"
+      not_found_message: de requezted resauce waz nu found
+      permission_denied_message: u no hab permishun 2 do dat
+      rate_limit_exceeded_message: ur goin 9 speeds, plzs sloww doawn
 
     # These translations are used as suffixes when abbreviating numbers.
     number_suffix:
-      kilo_text: K
-      mega_text: M
+      kilo_text: k
+      mega_text: m
 
     # These translations are used to punctuate a series of items.
     series:
       glue_text: ", "
-      three_text: "{first}, {second}, and {third}"
-      two_text: "{first} and {second}"
+      three_text: "{first}, {second}, & {third}"
+      two_text: "{first} & {second}"
 
     # These translations are used to modify usernames.
     username:
-      deleted_text: "[deleted]"
+      deleted_text: "[scronched lol]"
 
   # Translations in this namespace are used in views other than Flarum's normal JS client.
   views:
 
     # Translations in this namespace are displayed by the basic HTML content loader.
     content:
-      javascript_disabled_message: This site is best viewed in a modern browser with JavaScript enabled.
-      load_error_message: Something went wrong while trying to load the full version of this site. Try hard-refreshing this page to fix the error.
-      loading_text: Loading...
+      javascript_disabled_message: diz siet iz bwest viewd in modrn bowser wif javaskropt awokened
+      load_error_message: somsin wen wrongg whil tryin 2 meow ful vershun of dis siet. twi hard-refroshin de paeg 2 fixx D errar.
+      loading_text: meowin..
 
     # Translations in this namespace are displayed in the basic HTML discussion view.
     discussion:
@@ -502,14 +502,14 @@ core:
 
     # Translations in this namespace are displayed when Flarum encounters an error.
     error:
-      csrf_token_mismatch: You have been inactive for too long.
-      csrf_token_mismatch_return_link: Go back, to try again
-      invalid_confirmation_token: This confirmation link has already been used or is invalid.
-      not_authenticated: You do not have permission to access this page. Try again after logging in.
-      not_found: The page you requested could not be found.
-      not_found_return_link: "Return to {forum}"
-      permission_denied: You do not have permission to access this page.
-      unknown: An error occurred while trying to load this page.
+      csrf_token_mismatch: u hav ben sleepy 4 too longg
+      csrf_token_mismatch_return_link: go bacc, tri agayn
+      invalid_confirmation_token: diz konfirmashun Linkk haz alredi ben uzed or iz invlalid
+      not_authenticated: u don hav permishun 2 akcez diz paeg. tri agayn aftr loggin in.
+      not_found: de requezted resauce waz nu found.
+      not_found_return_link: "bacc 2 {forum}"
+      permission_denied: u don hab permishun 2 akcez diz paeg
+      unknown: an errar okkured whil tryin 2 lood diz paeg
 
     # Translations in this namespace are displayed by the basic HTML discussion index.
     index:
@@ -520,73 +520,75 @@ core:
     # Translations in this namespace are displayed by the Log Out confirmation interface.
     log_out:
       log_out_button: => core.ref.log_out
-      log_out_confirmation: "Are you sure you want to log out of {forum}?"
+      log_out_confirmation: "ar u shur dat u wan 2 get outta {forum}?"
       title: => core.ref.log_out
 
     # Translations in this namespace are displayed by the Reset Password interface.
     reset_password:
-      confirm_password_label: Confirm New Password
-      new_password_label: New Password
+      confirm_password_label: konfirm new kittenphrase
+      new_password_label: neww kittenphraze
       submit_button: => core.ref.save_changes
       title: => core.ref.reset_your_password
 
   # Translations in this namespace are used in messages output by the API.
   api:
-    invalid_username_message: "The username may only contain letters, numbers, and dashes."
+    invalid_username_message: "de kittenname may kontein onli dashez, lettrz and numberz, mebbe even _ thingies."
 
   # Translations in this namespace are used in emails sent by the forum.
   email:
 
     # These translations are used in emails sent when users register new accounts.
     activate_account:
-      subject: Activate Your New Account
+      subject: aktivaet new akkount
       body: |
-        Hey {username}!
+        henlo {username}!
 
-        Someone (hopefully you!) has signed up to {forum} with this email address.
+        som kitten (hopfuli u!) haz singed upp fur {forum} wif diz meil adrez.
 
-        If this was you, simply click the following link and your account will be activated:
+        if diz waz u, simpli klicc der and ur akkount wil be konfirmed:
         {url}
 
-        If you did not sign up, please ignore this email.
+        if diz isnt u plz ignore. kthxbai
 
     # These translations are used in emails sent when users change their email address.
     confirm_email:
-      subject: Confirm Your New Email Address
+      subject: konfirm ur new meil adrez
       body: |
-        Hey {username}!
+        henlo {username}!
 
-        Someone (hopefully you!) has changed their email address on {forum} to this one.
+        som kitten (hopfuli u!) haz meowed their kitten adrez on {forum} to diz one.
 
-        If this was you, simply click the following link and your email will be confirmed:
+        if iz u, plz klicc Link 2 konfirm ur new meil:
         {url}
 
-        If this was not you, please ignore this email.
+        if diz waznt u, plz ignor. kthxbai
 
     # These translations are used in emails sent when users ask to reset their passwords.
     reset_password:
       subject: => core.ref.reset_your_password
       body: |
-        Hey {username}!
+        henlo {username}!
 
-        Someone (hopefully you!) has submitted a forgotten password request for your account on {forum}.
+        som kitten (hopfuli u!) haz submitd a forgotun kittenphrase request on {forum}.
 
-        If this was you, click the following link to reset your password:
+        if diz waz u, plz klicc folowin linkk 2 resett ur pazwrd:
         {url}
 
-        If you do not wish to change your password, just ignore this email and nothing will happen.
+        if u no wish 2 chaeng paszwrd, plz ignor dis and nothin wil happan. kthxbai
 
     # These translations are used when testing mailing configuration
     send_test:
-      subject: Flarum Email Test
+      subject: florm emeil tezt
       body: |
-        Hey {username}!
+        henlo {username}!
 
-        This is a test email to confirm that your Flarum email configuration is working properly.
+        thiz iz tezt meil 2 se if everythin workz korretkli
 
-        If this was you, this email means that your configuration works!
+        if diz waz u, it meenz dat ur konfirguration workz!
 
-        If this was not you, please ignore this email.
+        if u don see dis, ur kongirfutration doenz wrok and u shul probably findd a job for it so it workz
+
+        if it simpli waznt u, Kyrnee iz kute boye. otherwize ignore dis. kthxbai
 
   ##
   # REUSED TRANSLATIONS - These keys should not be used directly in code!
@@ -594,48 +596,48 @@ core:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    all_discussions: All Discussions
-    change_email: Change Email
-    change_password: Change Password
-    color: Color                                 # Referenced by flarum-tags.yml
-    confirm_password: Confirm Password
-    confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
-    custom_footer_text: Add HTML to be displayed at the very bottom of the page.
-    custom_footer_title: Edit Custom Footer
-    custom_header_text: "Add HTML to be displayed at the very top of the page, above Flarum's own header."
-    custom_header_title: Edit Custom Header
-    delete: Delete
-    delete_forever: Delete Forever
-    discussions: Discussions                     # Referenced by flarum-statistics.yml
-    edit: Edit
-    email: Email
-    icon: Icon
-    icon_text: "Enter the name of any <a>FontAwesome</a> icon class, <em>including</em> the <code>fas fa-</code> prefix."
-    load_more: Load More
-    log_in: Log In
-    log_out: Log Out
-    mark_all_as_read: Mark All as Read
-    next_page: Next Page
-    notifications: Notifications
-    okay: OK                                     # Referenced by flarum-tags.yml
-    password: Password
-    posts: Posts                                 # Referenced by flarum-statistics.yml
-    previous_page: Previous Page
-    remove: Remove
-    rename: Rename
-    reply: Reply                                 # Referenced by flarum-mentions.yml
-    reset_your_password: Reset Your Password
-    restore: Restore
-    save_changes: Save Changes                   # Referenced by flarum-suspend.yml, flarum-tags.yml
-    settings: Settings
-    sign_up: Sign Up
-    some_others: "{count} other|{count} others"  # Referenced by flarum-likes.yml, flarum-mentions.yml
-    start_a_discussion: Start a Discussion
-    username: Username
-    users: Users                                 # Referenced by flarum-statistics.yml
-    view: View
-    write_a_reply: Write a Reply...
-    you: You                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    all_discussions: al diskuzonz
+    change_email: chaneng emeil
+    change_password: chaeng pazwrd
+    color: kolor                                 # Referenced by flarum-tags.yml
+    confirm_password: konfirm pazzwrd
+    confirmation_email_sent: "we send konfirmation emeil 2 {email}. if it no arriv, plz checc evil junky spammi folder of ur meil."
+    custom_footer_text: ad htlml koed 2 be displeyd at botom of paeg
+    custom_footer_title: editt kuztom footr
+    custom_header_text: "ad html koed 2 be displeyd at top of paeg, rite abov flarm'z heedr"
+    custom_header_title: edit kuztom heedr
+    delete: delet
+    delete_forever: scronch forever
+    discussions: diskuzsionz                     # Referenced by flarum-statistics.yml
+    edit: eddit
+    email: emeil
+    icon: ikon
+    icon_text: "entr de naem of ani <a>fonttawsom</a> ikon klass, <em>inkludin</em> de <code>fas fa-</code> prefox."
+    load_more: lood mor
+    log_in: logg inn
+    log_out: logg outta der
+    mark_all_as_read: marcc al az reed
+    next_page: nekst paeg
+    notifications: notifikashunz
+    okay: okidoki                                # Referenced by flarum-tags.yml
+    password: kittenphrase
+    posts: poztz                                 # Referenced by flarum-statistics.yml
+    previous_page: paeg bee4
+    remove: remeow
+    rename: renaem
+    reply: replie                                # Referenced by flarum-mentions.yml
+    reset_your_password: rezet ur kittenphrase
+    restore: reztor
+    save_changes: sav changez                   # Referenced by flarum-suspend.yml, flarum-tags.yml
+    settings: setingz
+    sign_up: sing up
+    some_others: "{count} othr|{count} othrz"   # Referenced by flarum-likes.yml, flarum-mentions.yml
+    start_a_discussion: startt a diskushion
+    username: kittenname
+    users: kittens                              # Referenced by flarum-statistics.yml
+    view: vieww
+    write_a_reply: wriet a replie...
+    you: u                                      # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
   # GROUP NAMES - These keys are translated at the back end.
@@ -643,11 +645,11 @@ core:
 
   # Translations in this namespace are used to translate default group names.
   group:
-    admin: Admin
-    admins: Admins
-    guest: Guest
-    guests: Guests
-    member: Member
-    members: Members
-    mod: Mod
-    mods: Mods
+    admin: administraktor
+    admins: administraktorz
+    guest: anonymouz
+    guests: anonymouzs
+    member: membr
+    members: membrz
+    mod: moderattr
+    mods: moderatorz
