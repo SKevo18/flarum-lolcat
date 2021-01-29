@@ -9,12 +9,12 @@ flarum-statistics:
 
     # These translations are used in the Statistics dashboard widget.
     statistics:
-      active_users_text: "{count} active"
+      active_users_text: "{count} aktiv"
       discussions_heading: => core.ref.discussions
-      last_12_months_label: Last 12 months
-      last_28_days_label: Last 28 days
-      last_7_days_label: Last 7 days
+      last_12_months_label: lazt 12 monfthz
+      last_28_days_label: lazt 28 dayz idk why 28 perhapz bcoz of 4 yeer thingy with febroar
+      last_7_days_label: lazt 7 dayz
       posts_heading: => core.ref.posts
-      today_label: Today
-      total_label: Total
+      today_label: todey
+      total_label: totl
       users_heading: => core.ref.users
