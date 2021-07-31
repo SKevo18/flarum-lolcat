@@ -30,8 +30,7 @@
                 "support": "https://github.com/cwkevo/flarum-lang-lolcat/issues"
             },
             "icon": {
-                "image": "icon.svg",
-                "backgroundColor": "#fff",
+                "image": "icon.png",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
             }
