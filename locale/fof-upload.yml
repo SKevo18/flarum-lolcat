@@ -114,8 +114,8 @@ fof-upload:
       loading: "loadin filez..." # Original: Loading files...
       empty: "thar r no filez 2 show." # Original: There are no files to show.
       release_to_upload: "Releaes 2 upload" # Original: Release to upload
-      modal_empty_desktop: "ur fiel list iz empty, Srsly .  Click teh button or drag  fiel hah 2 upload." # Original: Your file list is empty. Click the button or drag a file here to upload.
-      modal_empty_phone: "ur fiel list iz empty, Srsly .  Tap teh button aboev 2 upload  fiel." # Original: Your file list is empty. Tap the button above to upload a file.
+      modal_empty_desktop: "ur fiel list iz empty. Srsly  Click teh button or drag  fiel hah 2 upload." # Original: Your file list is empty. Click the button or drag a file here to upload.
+      modal_empty_phone: "ur fiel list iz empty.  Tap teh button aboev 2 upload  fiel." # Original: Your file list is empty. Tap the button above to upload a file.
       select_file_a11y_label: "Select fiel" # Original: Select file 
       confirm_selection_btn: "{fileCount, plural, =0 {None selected} one {Select file} other {Select files}}"
       load_more_files_btn: "Load moar filez" # Original: Load more files

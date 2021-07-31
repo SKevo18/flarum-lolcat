@@ -13,7 +13,7 @@ fof-stopforumspam:
 
       api_key_label: "AIP Key" # Original: API Key
       api_key_text: "u haz fof/spamblock enabld, u nao haz teh opshun 2 report spammers 2 StopForumSpam in ordr 2 keep teh greatr forum community spam free." # Original: You have fof/spamblock enabled, you now have the option to report spammers to StopForumSpam in order to keep the greater forum community spam free.
-      api_key_instructions_text: "Sign up 4 StopForumSpam.  Then u will ned 2 obtaen an AIP key." # Original: <register>Sign up for StopForumSpam</register>. Then you will need to <key>obtain an API key</key>.
+      api_key_instructions_text: "Sign up 4 StopForumSpam. Srsly  Then u will ned 2 obtaen an AIP key." # Original: <register>Sign up for StopForumSpam</register>. Then you will need to <key>obtain an API key</key>.
 
   forum:
     message:

@@ -1,4 +1,4 @@
 v17development-flarum-seo:
   forum:
-    profile_title: "profiel of {username}"
-    profile_description: "profiel of {username} | {discussion_count} diskushunz | {comment_count} pozts"
+    profile_title: "Profile of {username}"
+    profile_description: "Profile of {username} | {discussion_count} discussions | {comment_count} posts"

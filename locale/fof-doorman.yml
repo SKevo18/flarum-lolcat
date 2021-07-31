@@ -23,7 +23,7 @@ fof-doorman:
     modal:
       title: "Send Inviet Codes" # Original: Send Invite Codes
       group: Sending invites for {group} group
-      help: "acceptz  comam, spaec, or comam-spaec seperated list, Srsly .  Tyep an individual email or paset  list then pres spaec 2 add it/dem." # Original: Accepts a comma, space, or comma-space seperated list. Type an individual email or paste a list then press space to add it/them.
+      help: "acceptz  comam, spaec, or comam-spaec seperated list. Srsly  Tyep an individual email or paset  list then pres spaec 2 add it/dem." # Original: Accepts a comma, space, or comma-space seperated list. Type an individual email or paste a list then press space to add it/them.
       placeholder: "entr emails hah" # Original: Enter emails here
       invalid_emails: "The following email(s) are invalid: {emails}"
       max_use_conflict: "teh numbr ov emails exceeds teh max numbr ov usez 4 dis coed." # Original: The number of emails exceeds the max number of uses for this code.

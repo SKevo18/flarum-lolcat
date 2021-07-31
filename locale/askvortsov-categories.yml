@@ -14,7 +14,7 @@ askvortsov-categories:
       small_forum_optimized: "Optimiez 4 small forumz?" # Original: Optimize for small forums?
     help:
       child_bare_icon: "shud iconz on child categories bees displayd wifout  circular bakground?" # Original: Should icons on child categories be displayed without a circular background?
-      full_page_desktop: "shud teh sidebar nav meun bees collapsed 2  row (likes on teh traditional tags paeg), Srsly ?  dis will alos hied widgetz (such as frenz ov Flarum Forum Statistics) frum teh categories paeg navbar." # Original: Should the sidebar nav menu be collapsed to a row (like on the traditional tags page)? This will also hide widgets (such as Friends of Flarum Forum Statistics) from the categories page navbar.
+      full_page_desktop: "shud teh sidebar nav meun bees collapsed 2  row (likes on teh traditional tags paeg). Srsly  dis will alos hied widgetz (such as frenz ov Flarum Forum Statistics) frum teh categories paeg navbar." # Original: Should the sidebar nav menu be collapsed to a row (like on the traditional tags page)? This will also hide widgets (such as Friends of Flarum Forum Statistics) from the categories page navbar.
       small_forum_optimized:  "dis will giv moar accuraet discushun/post counts, but will slow medium an lareg forumz dramatically." # Original: This will give more accurate discussion/post counts, but will slow medium and large forums dramatically.
     headings:
       nav: "Navigation" # Original: Navigation

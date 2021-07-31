@@ -2,6 +2,8 @@
 
 LOLCat language pack for [Flarum](https://flarum.org).
 
+This language pack was automatically translated with [Flarum Language Generator](https://github.com/CWKevo/flarum-language-generator) and is under minimal maintenance.
+
 ### Installation:
 ```
 composer require skevo/flarum-lolcat

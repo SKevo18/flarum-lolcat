@@ -30,7 +30,7 @@ fof-terms:
             name: "naym" # Original: Name
             name-help: "dis naym will bees shown besied teh checkbox an as teh titel ov teh updaet modal." # Original: This name will be shown beside the checkbox and as the title of the update modal.
             url: "URL" # Original: URL
-            url-help: "teh URL 2 teh paeg wah u can read teh termz.  Will open in  nu tab when clicked." # Original: The URL to the page where you can read the terms. Will open in a new tab when clicked.
+            url-help: "teh URL 2 teh paeg wah u can read teh termz, Srsly .  Will open in  nu tab when clicked." # Original: The URL to the page where you can read the terms. Will open in a new tab when clicked.
             update-message: "Updaet mesaeg" # Original: Update Message
             update-message-help: "mesaeg 2 show 2 existin userz hoo haz not yet accepted teh latest termz." # Original: A message to show to existing users who have not yet accepted the latest terms.
             terms-updated-at: "updatd at" # Original: Updated at
@@ -69,7 +69,7 @@ fof-terms:
 
         update-alert:
             must-accept-message: "We" # Original: We
-            can-accept-message: "We recently updatd teh termz. Srsly  u must accept dem 2 continue usin dis websiet." # Original: We recently updated the terms. You must accept them to continue using this website.
+            can-accept-message: "We recently updatd teh termz.  u must accept dem 2 continue usin dis websiet." # Original: We recently updated the terms. You must accept them to continue using this website.
             review: "Click hah 2 review an accept teh nu termz" # Original: Click here to review and accept the new terms
 
         user_controls:

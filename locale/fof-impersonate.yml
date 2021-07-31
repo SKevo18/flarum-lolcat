@@ -5,7 +5,7 @@ fof-impersonate:
         settings:
             title: "FoF Impersonaet" # Original: FoF Impersonate
             require_reason: "Requier  reason 2 bees entered b4 proceeding 2 impersonaet anofr usr." # Original: Require a reason to be entered before proceeding to impersonate another user.
-            no_settings_available: "No settingz r currently availabel, Srsly .  Twee installin fof/moderator-notez" # Original: No settings are currently available. Try installing fof/moderator-notes
+            no_settings_available: "No settingz r currently availabel.  Twee installin fof/moderator-notez" # Original: No settings are currently available. Try installing fof/moderator-notes
 
     forum:
         modal:
