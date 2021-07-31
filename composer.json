@@ -37,8 +37,8 @@
             }
         },
         "flarum-locale": {
-            "code": "sk",
-            "title": "Slovenčina"
+            "code": "lol",
+            "title": "LOLCat"
         },
         "extiverse": {
             "discuss": "https://discuss.flarum.org/d/21009"
