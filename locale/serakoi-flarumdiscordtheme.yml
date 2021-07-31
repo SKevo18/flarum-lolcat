@@ -1,0 +1,5 @@
+serakoi-flarumdiscordtheme: 
+  admin: 
+    authorBadge: 
+      label: "Aufor Badeg text" # Original: Author Badge text 
+      help: "teh aufor badeg text (defaultz 2 Aufor)" # Original: The author badge text (Defaults to Author)

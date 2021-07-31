@@ -1,32 +1,47 @@
 {
-    "name": "cwkevo/flarum-lang-lolcat",
+    "name": "skevo/flarum-lolcat",
     "type": "flarum-extension",
-    "description": "LOLCat Language Pack.",
-    "keywords": ["locale", "lolcat", "flarum", "april fools"],
+    "description": "I kan haz Flarum?",
+    "keywords": ["locale", "flarum", "lolcat", "april fools"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "SKevo",
+            "email": "me@kevo.link"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/cwkevo/flarum-lang-lolcat/issues",
+        "source": "https://github.com/cwkevo/flarum-lang-lolcat",
+        "forum": "https://discuss.flarum.org/d/21009"
+    },
     "require": {
-        "flarum/core": "^0.1.0-beta.15"
+        "flarum/core": "^1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "1.x-dev"
         },
         "flarum-extension": {
-            "title": "LOLCat",
+            "title": "Flarum LOLCat",
             "category": "language",
             "info": {
-                "support": "https://discuss.flarum.org/d/21009"
+                "website": "https://github.com/cwkevo/flarum-lang-lolcat",
+                "support": "https://github.com/cwkevo/flarum-lang-lolcat/issues"
             },
             "icon": {
-                "image": "icon.png",
-                "backgroundColor": "#00247d",
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
             }
         },
         "flarum-locale": {
-            "code": "en-lol",
-            "title": "LOLCat"
+            "code": "sk",
+            "title": "Slovenčina"
+        },
+        "extiverse": {
+            "discuss": "https://discuss.flarum.org/d/21009"
         }
     }
 }
